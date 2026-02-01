@@ -39,44 +39,24 @@ Key Features:
 - Add members and increase accessibility  
 - EmpowHer allows women to explore job opportunities easily
 
-2. Skill & Livelihood Recommendation
-  - Women entrepreneurs and SHGs can post local job opportunities
-  - Users input basic details like location, education, interests, and available resources.
-  - Job seekers can explore jobs based on skill categories such as tailoring, carpentry, handicrafts, food services, etc.  
-  - The system recommends income-generating skills or micro-business ideas.
-  - Each recommendation includes:
-    1. Expected monthly income
-    2. Startup cost
-    3. Suggested loan amount
-    This helps users make informed decisions before taking loans.
+2. Buyer Options
+  - The products that women have made at home through their small businesses will be posted on the site and buyers can look for the items and get the product location and seller contact.
 
-3. Purpose-Based Loan Planning
-  - Loan requests are directly linked to a selected skill or business idea.
-  - A trust score is also added which will basically be a CIBIL score.
+2. Job recruiting and searching
+  - Women entrepreneurs and SHGs can post local job opportunities
+  - Users input basic details like interests.
+  - Job seekers can explore jobs based on skill categories such as tailoring, carpentry, handicrafts, food services, etc.
+  - They can upload their resume and contact the job recruiters.
+
+3. Purpose-Based Loan Planning - Financial Help
+  - Loan requests are approved with a trust score
+  - A trust score is approved with identity and government documents with parameters like savings, repayment and participation percentages. 
   - This ensures:
     1. Better financial planning
     2. Lower risk of loan misuse
     3. Higher repayment confidence
 
-4. Smart Earnings Optimizer
-  - Helps women compare product/service prices across different markets  
-  - Identifies locations or platforms offering better income  
-  - Provides recommendations to maximize earnings from the same work  
-  - Reduces dependency on middlemen and prevents underpricing
-
-5. Women-Centric Scheme Information Hub
-  - Automatically shows government/NGO schemes a woman is eligible for
-  - Eligibility is determined using profile-based rule matching  
-  - Clear explanation of benefits, required documents, and enrollment steps  
-  - Bridges the gap between policies and real beneficiaries  
-  - Centralized access to government and NGO schemes for women.
-  - Schemes are filtered based on:
-  - Location
-  - Category (loan, skill training, welfare)
-  - Selected livelihood option
-  - Information is presented in simple, easy-to-understand language.
-
-6. Community-Centric Design
+5. Community-Centric Design
   - Built with the philosophy of “Strength in Numbers”
   - Encourages collective learning, shared growth, and informed decision-making.
   - Designed to work offline or in low-connectivity settings.
