@@ -36,9 +36,8 @@ Key Features:
 
 1. SHG & Community Management
 - Create and manage SHG profiles  
-- Add members and increase accessibility 
-- Track meetings and activities  
-- EmpowHer allows women to easily explore job opportunites
+- Add members and increase accessibility  
+- EmpowHer allows women to explore job opportunities easily
 
 2. Skill & Livelihood Recommendation
   - Women entrepreneurs and SHGs can post local job opportunities
